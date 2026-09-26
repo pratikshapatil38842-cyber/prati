@@ -1,2 +1,4 @@
 # prati
-this my 1st github
+
+
+shiva is good person
